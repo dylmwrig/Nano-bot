@@ -1,0 +1,10 @@
+#don't push API keys and stuff like that
+config.js
+#extraneous files
+images*
+package*
+node_modules*
+#jetbrains stuff
+*/workspace.xml
+*/tasks.xml
+*.iml
