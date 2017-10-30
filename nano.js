@@ -4,6 +4,8 @@
  * should have following functionality:
  * 1) keep track of what episode of things we're on
  * ---tell us/possibly link us the next episode?
+ * 2) random fun things
+ * ---if a user says "I WANNA MUNCH", nano should reply with "SQUAD" and possibly an image
  */
 
 CONFIG = require("./config.js"); //configuration file for storing sensitive info
